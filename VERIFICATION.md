@@ -6,11 +6,15 @@ The public showcase contains two iOS projects and their supporting curriculum se
 
 | Project | Passing hosted checks |
 | --- | --- |
-| [Deutsch B1 Coach](https://github.com/fayselomerahmed/deutsch-b1-coach-ios) | [Release simulator build, 78 iOS tests, 7 core tests](https://github.com/fayselomerahmed/deutsch-b1-coach-ios/actions/runs/39037289889) |
-| [Travel Companion](https://github.com/fayselomerahmed/travel-companion-ios) | [Release simulator build and 5 tests](https://github.com/fayselomerahmed/travel-companion-ios/actions/runs/39037288743) |
-| [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) | [Clean install, production build, 11 checks, type checking, linting, and production-dependency audit](https://github.com/fayselomerahmed/deutsch-b1-coach-studio/actions/runs/39037286238) |
+| [Deutsch B1 Coach](https://github.com/fayselomerahmed/deutsch-b1-coach-ios) | [Release simulator build, 87 iOS tests, 13 host-runnable core tests](https://github.com/fayselomerahmed/deutsch-b1-coach-ios/actions/runs/39064142087) |
+| [Travel Companion](https://github.com/fayselomerahmed/travel-companion-ios) | [Release simulator build and 12 tests](https://github.com/fayselomerahmed/travel-companion-ios/actions/runs/39064138104) |
+| [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) | [Clean install, production build, 15 checks, type checking, linting, and production-dependency audit](https://github.com/fayselomerahmed/deutsch-b1-coach-studio/actions/runs/39064138260) |
 
 These are concrete checks of personal-project source, not claims of commercial deployment, customer numbers, or App Store release. A simulator build does not replace physical-device, accessibility, service-integration, or release-signing checks.
+
+Deutsch's host-runnable core package reuses a subset of the iOS test files; its two counts are not additive distinct-test coverage.
+
+The app previews are unedited captures from separate successful [Deutsch](https://github.com/fayselomerahmed/deutsch-b1-coach-ios/actions/runs/39063739835) and [Travel](https://github.com/fayselomerahmed/travel-companion-ios/actions/runs/39063950747) simulator workflows. They show rendered interfaces, not evidence of live-provider results or commercial deployment.
 
 ## Release boundaries
 
