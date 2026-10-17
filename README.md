@@ -9,13 +9,22 @@ I'm an iOS developer focused on thoughtful, privacy-conscious products built wit
 | [Deutsch B1 Coach](https://github.com/fayselomerahmed/deutsch-b1-coach-ios) | An offline-first German learning app with guided A1–B1 lessons, spaced repetition, speaking and writing practice, progress analytics, and a B1-style practice exam. | SwiftUI, SwiftData, StoreKit 2, Speech, AVFoundation |
 | [Travel Companion](https://github.com/fayselomerahmed/travel-companion-ios) | A multilingual trip companion for flight status, entry requirements, saved journeys, checklists, and travel planning. | SwiftUI, SwiftData, MapKit, Core Location, async/await |
 | [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) | A companion web studio for versioned curriculum publishing, rollback, managed access, and privacy-conscious product health metrics. | TypeScript, React, Cloudflare D1, Drizzle |
-| [Weatherly](https://github.com/fayselomerahmed/weatherly) | A SwiftUI weather app with current-location weather, multi-city search, forecasts, persistence, and animated conditions. | SwiftUI, Core Location, URLSession, Codable |
+| [Weatherly](https://github.com/fayselomerahmed/weatherly) | A SwiftUI weather app with live current conditions, multi-city search, persistence, animated backgrounds, and sample forecast cards. | SwiftUI, Core Location, URLSession, Codable |
 | [Habit Hero](https://github.com/fayselomerahmed/habit-hero-ios) | A habit and reminder app with streaks, completion tracking, local notifications, and lightweight persistence. | SwiftUI, UserNotifications, AVFoundation |
 | [ProSpender](https://github.com/fayselomerahmed/prospender) | A personal expense journal with rich transaction details, recurring flags, editing, swipe actions, and haptic feedback. | SwiftUI, SwiftData |
 
 ## More projects
 
 My [SwiftUI Learning Lab](https://github.com/fayselomerahmed/swiftui-learning-lab) collects smaller apps exploring networking, persistence, search, WebKit, and interface design.
+
+## Project archive
+
+- [Ankommen](https://github.com/fayselomerahmed/ankommen-ios) — a German-learning interface prototype with screenshots.
+- [Gize Driver](https://github.com/fayselomerahmed/gize-driver-ios) and [Gize Rider](https://github.com/fayselomerahmed/gize-rider-ios) — ride-hailing app prototypes using SwiftUI, maps, and Firebase.
+- [Budget Buddy](https://github.com/fayselomerahmed/budget-buddy-ios) and [Expense Tracker](https://github.com/fayselomerahmed/ExpenseTracker) — earlier personal-finance projects.
+- [ReiseApp](https://github.com/fayselomerahmed/reise-app-prototype) — an early travel-app experiment.
+- [German B1 Coach Prototype](https://github.com/fayselomerahmed/german-b1-coach-prototype) — an earlier iteration of my language-learning work.
+- [Swift Playgrounds](https://github.com/fayselomerahmed/swift-playgrounds) — small experiments and learning exercises.
 
 ## Toolbox
 
