@@ -20,4 +20,4 @@ These are concrete checks of personal-project source, not claims of commercial d
 
 Detailed checklists remain with each source repository: [Deutsch](https://github.com/fayselomerahmed/deutsch-b1-coach-ios/blob/main/PRODUCTION_READINESS.md), [Travel](https://github.com/fayselomerahmed/travel-companion-ios/blob/main/PRODUCTION_READINESS.md), [Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio/blob/main/PRODUCTION_READINESS.md).
 
-No job history, language certificate, work authorization, commercial user metrics, or sole-author claim is inferred from this portfolio. Third-party notices stay with the source.
+Third-party notices and contributor credits stay with the source. Language levels on the profile are self-reported; no language certificate or work authorization is implied.

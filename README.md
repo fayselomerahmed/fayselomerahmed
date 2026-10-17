@@ -3,6 +3,10 @@
 
 I build native iOS apps with persistent local data, asynchronous networking, and automated tests. I’m looking for iOS development opportunities in Germany.
 
+Languages: German B1 · English C2 (self-reported CEFR).
+
+Contact: [fayselomer51@gmail.com](mailto:fayselomer51@gmail.com).
+
 [Deutsche Übersicht](README.de.md) · [Build and test evidence](VERIFICATION.md)
 
 ## Selected work
@@ -35,4 +39,3 @@ Swift · SwiftUI · SwiftData · Codable · async/await · REST APIs · XCTest �
 
 I value clear state handling, testable logic, offline behavior, and readable documentation. The project READMEs explain implementation decisions, setup, verified results, and release boundaries.
 
-Contact: [GitHub](https://github.com/fayselomerahmed).

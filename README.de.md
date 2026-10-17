@@ -3,6 +3,10 @@
 
 Ich entwickle native iOS-Apps mit lokaler Datenhaltung, asynchroner API-Anbindung und automatisierten Tests. Ich suche eine Position in der iOS-Entwicklung in Deutschland.
 
+Sprachen: Deutsch B1 · Englisch C2 (GER, Selbsteinschätzung).
+
+Kontakt: [fayselomer51@gmail.com](mailto:fayselomer51@gmail.com).
+
 [English overview](README.md) · [Build- und Testnachweise](VERIFICATION.md)
 
 ## Ausgewählte Projekte
@@ -29,6 +33,4 @@ Eine mehrsprachige Reiseplanungs-App mit gespeicherten Reisen, Checklisten, Kart
 
 Swift · SwiftUI · SwiftData · Codable · async/await · REST APIs · XCTest · Swift Package Manager · GitHub Actions
 
-Die Projekt-READMEs dokumentieren Architekturentscheidungen, Einrichtung, überprüfte Ergebnisse und die Grenzen des jeweiligen Entwicklungsstands. Diese deutsche Übersicht ist keine Angabe zu einem geprüften Sprachniveau oder einer Arbeitserlaubnis.
-
-Kontakt: [GitHub](https://github.com/fayselomerahmed).
+Die Projekt-READMEs dokumentieren Architekturentscheidungen, Einrichtung, überprüfte Ergebnisse und die Grenzen des jeweiligen Entwicklungsstands.
