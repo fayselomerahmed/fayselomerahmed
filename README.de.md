@@ -23,18 +23,18 @@ Echte Aufnahmen im iPhone-Simulator: Deutsch B1 Coach und Travel Companion.
 Eine offline-orientierte Deutschlern-App mit strukturierten Lektionen, Spaced Repetition, Sprechübungen und Lernfortschritt.
 
 - SwiftUI und SwiftData für Oberfläche und persistente Daten.
-- Sprachfunktionen auf dem Gerät, Apple Speech und deterministische Generierung von Lerninhalten.
-- Erfolgreicher Release-Simulator-Build und 87 iOS-Tests; davon laufen 13 Core-Tests auch ohne iOS-Simulator.
+- Sprachfunktionen auf dem Gerät, Apple Speech und Cache-Invalidierung bei Inhaltsänderungen.
+- Erfolgreicher Release-Simulator-Build und 94 iOS-Tests; davon laufen 18 Core-Tests auch ohne iOS-Simulator.
 
 ### [Travel Companion](https://github.com/fayselomerahmed/travel-companion-ios)
 
 Eine mehrsprachige Reiseplanungs-App mit gespeicherten Reisen, Checklisten, Karten und konfigurierbaren Schnittstellen für Flug- und Einreiseinformationen.
 
 - SwiftUI, SwiftData, MapKit, URLSession und async/await.
-- Explizite Behandlung von Ladezuständen, Fehlern, fehlender Konfiguration und Speicherproblemen.
-- Erfolgreicher Release-Simulator-Build und 12 Regressionstests, unter anderem für asynchrone Anfragen.
+- Begrenzte API-Wiederholungen und Schutz vor veralteten Suchergebnissen.
+- Erfolgreicher Release-Simulator-Build und 20 Regressionstests, unter anderem für asynchrone Anfragen.
 
-**Ergänzender Dienst:** [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) ermöglicht versionierte Veröffentlichung und Validierung von Lerninhalten mit TypeScript, React und Cloudflare D1. Build, Typprüfung, Linting und 15 automatisierte Prüfungen sind erfolgreich.
+**Ergänzender Dienst:** [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) ermöglicht versionierte Veröffentlichung und Validierung von Lerninhalten mit TypeScript, React und Cloudflare D1. Build, Typprüfung, Linting und 27 automatisierte Prüfungen sind erfolgreich.
 
 ## Technischer Schwerpunkt
 

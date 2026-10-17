@@ -23,8 +23,8 @@ Real iPhone simulator previews: Deutsch B1 Coach and Travel Companion.
 An offline-first German-learning app combining structured lessons, spaced repetition, speaking practice, and progress tracking.
 
 - SwiftUI interfaces and SwiftData persistence.
-- On-device speech assets, Apple Speech integration, and deterministic curriculum generation.
-- Verified Release simulator build, **87 iOS tests** and a **13-test host-runnable core subset**.
+- On-device speech, Apple Speech integration, and revision-aware curriculum caching.
+- Verified Release simulator build, **94 iOS tests** and an **18-test host-runnable core subset**.
 
 [Architecture](https://github.com/fayselomerahmed/deutsch-b1-coach-ios/blob/main/DeutschB1Coach/Docs/Architecture.md) · [Source and setup](https://github.com/fayselomerahmed/deutsch-b1-coach-ios#readme)
 
@@ -33,12 +33,12 @@ An offline-first German-learning app combining structured lessons, spaced repeti
 A multilingual travel-planning app with saved trips, checklists, maps, and configurable flight/entry-information integrations.
 
 - SwiftUI, SwiftData, MapKit, URLSession, and async/await.
-- Explicit loading, failure, configuration, and persistent-storage handling.
-- Verified Release simulator build and **12 regression tests**, including asynchronous request state.
+- Bounded API retries and protection against stale search results.
+- Verified Release simulator build and **20 regression tests**, including asynchronous request state.
 
 [Source and setup](https://github.com/fayselomerahmed/travel-companion-ios#readme)
 
-**Supporting service:** [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) provides versioned content publishing and validation for Deutsch B1 Coach, using TypeScript, React, and Cloudflare D1. Its build, type checking, linting, and 15 automated checks pass.
+**Supporting service:** [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) provides versioned content publishing and validation for Deutsch B1 Coach, using TypeScript, React, and Cloudflare D1. Its build, type checking, linting, and 27 automated checks pass.
 
 ## Engineering focus
 
