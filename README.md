@@ -1,44 +1,34 @@
-# Hi, I'm Faysel 👋
+# Faysel Ahmed · iOS Developer
 
-I'm an iOS developer focused on thoughtful, privacy-conscious products built with Swift and SwiftUI. I enjoy turning practical ideas into polished apps that work reliably, respect user data, and feel at home on Apple platforms.
+I build native iOS apps with Swift and SwiftUI, with a focus on offline learning, practical travel tools, and reliable local data. I’m open to iOS developer opportunities.
 
-## Featured work
+## Featured projects
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Deutsch B1 Coach](https://github.com/fayselomerahmed/deutsch-b1-coach-ios) | An offline-first German learning app with guided A1–B1 lessons, spaced repetition, speaking and writing practice, progress analytics, and a B1-style practice exam. | SwiftUI, SwiftData, StoreKit 2, Speech, AVFoundation |
-| [Travel Companion](https://github.com/fayselomerahmed/travel-companion-ios) | A multilingual trip companion for flight status, entry requirements, saved journeys, checklists, and travel planning. | SwiftUI, SwiftData, MapKit, Core Location, async/await |
-| [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) | A companion web studio for versioned curriculum publishing, rollback, managed access, and privacy-conscious product health metrics. | TypeScript, React, Cloudflare D1, Drizzle |
-| [Weatherly](https://github.com/fayselomerahmed/weatherly) | A SwiftUI weather app with live current conditions, multi-city search, persistence, animated backgrounds, and sample forecast cards. | SwiftUI, Core Location, URLSession, Codable |
-| [Habit Hero](https://github.com/fayselomerahmed/habit-hero-ios) | A habit and reminder app with streaks, completion tracking, local notifications, and lightweight persistence. | SwiftUI, UserNotifications, AVFoundation |
-| [ProSpender](https://github.com/fayselomerahmed/prospender) | A personal expense journal with rich transaction details, recurring flags, editing, swipe actions, and haptic feedback. | SwiftUI, SwiftData |
+| Project | Product and engineering focus |
+| --- | --- |
+| [Deutsch B1 Coach](https://github.com/fayselomerahmed/deutsch-b1-coach-ios) | Offline-first German learning: curriculum generation, spaced repetition, speaking practice, SwiftData progress, and on-device speech assets. SwiftUI · SwiftData · StoreKit 2 · Speech · AVFoundation |
+| [Travel Companion](https://github.com/fayselomerahmed/travel-companion-ios) | Multilingual travel planning with saved trips, checklists, flight lookup, and entry-requirement integrations. SwiftUI · SwiftData · MapKit · async/await |
+| [Curriculum Studio](https://github.com/fayselomerahmed/deutsch-b1-coach-studio) | The learning app’s companion service: authenticated curriculum publishing, version validation, rollback, and access management. TypeScript · React · Cloudflare Workers/D1 · Drizzle |
 
-## More projects
+Start with each project’s README for architecture, setup, tests, and release limitations. These are personal projects under active development; a portfolio listing is not a claim of App Store release or production certification.
 
-My [SwiftUI Learning Lab](https://github.com/fayselomerahmed/swiftui-learning-lab) collects smaller apps exploring networking, persistence, search, WebKit, and interface design.
+## Focused apps
 
-## Project archive
+- [Habit Hero](https://github.com/fayselomerahmed/habit-hero-ios) — habit tracking, local reminders, and calendar-based streaks.
+- [ProSpender](https://github.com/fayselomerahmed/prospender) — a SwiftData expense journal with transaction editing.
+- [Weatherly](https://github.com/fayselomerahmed/weatherly) — live current weather and saved cities; forecast cards are explicitly demo data.
+- [Budget Buddy](https://github.com/fayselomerahmed/budget-buddy-ios) and [Expense Tracker](https://github.com/fayselomerahmed/ExpenseTracker) — smaller finance apps exploring persistence and input validation.
 
-- [Ankommen](https://github.com/fayselomerahmed/ankommen-ios) — a German-learning interface prototype with screenshots.
-- [Gize Driver](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Mobility/GizeDriver) and [Gize Rider](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Mobility/GizeRider) — ride-hailing app prototypes using SwiftUI, maps, and Firebase.
-- [Budget Buddy](https://github.com/fayselomerahmed/budget-buddy-ios) and [Expense Tracker](https://github.com/fayselomerahmed/ExpenseTracker) — earlier personal-finance projects.
-- [ReiseApp](https://github.com/fayselomerahmed/reise-app-prototype) — an early travel-app experiment.
-- [German B1 Coach Prototype](https://github.com/fayselomerahmed/german-b1-coach-prototype) — an earlier iteration of my language-learning work.
-- [Swift Playgrounds](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Playgrounds) — small experiments and learning exercises.
+## Learning and prototypes
 
-## Toolbox
+[SwiftUI Learning Lab](https://github.com/fayselomerahmed/swiftui-learning-lab) contains MovieBrowser, Recipe Finder, ToDo, Frankfurt Companion, [Gize Driver](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Mobility/GizeDriver), [Gize Rider](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Mobility/GizeRider), and [Swift Playgrounds](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Playgrounds). Tutorial-derived work and third-party dependencies retain their credits.
 
-- **Apple platforms:** Swift, SwiftUI, SwiftData, StoreKit 2, Speech, AVFoundation, Core Location, MapKit, UserNotifications
-- **App architecture:** offline-first design, async/await, URLSession, Codable, persistence, accessibility, localization
-- **Quality:** XCTest, deterministic content generation, documentation, privacy-aware analytics
-- **Companion services:** TypeScript, React, Cloudflare Workers and D1, Drizzle ORM
+Earlier iterations: [Ankommen](https://github.com/fayselomerahmed/ankommen-ios), [ReiseApp](https://github.com/fayselomerahmed/reise-app-prototype), and [German B1 Coach Prototype](https://github.com/fayselomerahmed/german-b1-coach-prototype).
 
-## What I care about
+## Engineering interests
 
-- Products that solve a real problem
-- Interfaces that are clear, accessible, and enjoyable to use
-- Reliable offline behavior and graceful failure states
-- Keeping personal data on the user's device whenever possible
-- Honest documentation and maintainable code
+SwiftUI interfaces · offline-first data · SwiftData and Codable persistence · async networking · localization · speech interaction · focused regression tests · privacy-conscious configuration.
 
-I'm currently polishing these projects with screenshots, demos, tests, and clearer setup guides.
+For the current verification status and remaining release gates, see the [readiness checklist](https://github.com/fayselomerahmed/swiftui-learning-lab/blob/main/PRODUCTION_READINESS.md).
+
+[GitHub](https://github.com/fayselomerahmed) is my public contact point.
