@@ -20,11 +20,11 @@ My [SwiftUI Learning Lab](https://github.com/fayselomerahmed/swiftui-learning-la
 ## Project archive
 
 - [Ankommen](https://github.com/fayselomerahmed/ankommen-ios) — a German-learning interface prototype with screenshots.
-- [Gize Driver](https://github.com/fayselomerahmed/gize-driver-ios) and [Gize Rider](https://github.com/fayselomerahmed/gize-rider-ios) — ride-hailing app prototypes using SwiftUI, maps, and Firebase.
+- [Gize Driver](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Mobility/GizeDriver) and [Gize Rider](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Mobility/GizeRider) — ride-hailing app prototypes using SwiftUI, maps, and Firebase.
 - [Budget Buddy](https://github.com/fayselomerahmed/budget-buddy-ios) and [Expense Tracker](https://github.com/fayselomerahmed/ExpenseTracker) — earlier personal-finance projects.
 - [ReiseApp](https://github.com/fayselomerahmed/reise-app-prototype) — an early travel-app experiment.
 - [German B1 Coach Prototype](https://github.com/fayselomerahmed/german-b1-coach-prototype) — an earlier iteration of my language-learning work.
-- [Swift Playgrounds](https://github.com/fayselomerahmed/swift-playgrounds) — small experiments and learning exercises.
+- [Swift Playgrounds](https://github.com/fayselomerahmed/swiftui-learning-lab/tree/main/Playgrounds) — small experiments and learning exercises.
 
 ## Toolbox
 
